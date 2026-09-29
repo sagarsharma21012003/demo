@@ -16,4 +16,8 @@ Live-edge tonx bruh, shoreditch I think you should leave snackwave mood board le
 Robert walser post-ironic wolf chambray tbh cronut aesthetic PBR&B letterpress claire denis celiac ego death. Capitalist realism thundercats gorpcore copper mug, mustache nootropic ego death bushwick celiac knoll vaporware amaro pork belly knausgaard supper club. Indigo dye flannel slow-carb next level, retro metrograph booktok master cleanse air plant. Oat milk criterion moss wall supper club rams man bun lion's mane, needle felting yorgos photo
 
 
+<<<<<<< HEAD
 fh3rfgerfrgfrv
+=======
+sagar sgarqqjidefghejfgfefsesfgfsfg
+>>>>>>> parent of ae6038e (Revert "Adding mistake in a hurry")
